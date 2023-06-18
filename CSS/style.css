@@ -39,10 +39,6 @@ nav ul li a{
     padding: 26px 25.5px;
     display: inline-block;
 }
-a :hover{
-    color: #0febe3;
-    transition: .8;
-}
 /* Nav css end */
 /* Banner css start */
     #banner{
